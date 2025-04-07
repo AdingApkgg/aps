@@ -1,2 +1,3 @@
-# bbps
-海岛奇兵闪光私服网站
+# Asuna Private Server
+
+海岛奇兵闪光私人服务器
